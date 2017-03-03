@@ -1,0 +1,5 @@
+Inbox/*.ps1
+Outbox/*.ps1
+Repository/*.ps1
+*.cer
+*.pfx

@@ -1,0 +1,182 @@
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\ApplicationInsights.config
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\roslyn\csc.exe
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\roslyn\System.Collections.Immutable.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\roslyn\vbc.exe
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\roslyn\VBCSCompiler.exe
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\roslyn\VBCSCompiler.exe.config
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Sign.dll.config
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Sign.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Sign.pdb
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Antlr3.Runtime.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\EntityFramework.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\EntityFramework.SqlServer.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Microsoft.AI.Web.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Microsoft.AI.WindowsServer.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Microsoft.ApplicationInsights.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Microsoft.Owin.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Microsoft.Owin.Security.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Microsoft.Owin.Security.Google.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Microsoft.Web.Infrastructure.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Newtonsoft.Json.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Owin.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\System.Management.Automation.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\System.Net.Http.Formatting.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\System.Web.Helpers.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\System.Web.Http.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\System.Web.Http.Owin.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\System.Web.Http.WebHost.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\System.Web.Mvc.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\System.Web.Optimization.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\System.Web.Razor.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\System.Web.WebPages.Deployment.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\System.Web.WebPages.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\System.Web.WebPages.Razor.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\WebGrease.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Microsoft.AI.Web.xml
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Microsoft.AI.WindowsServer.xml
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Microsoft.ApplicationInsights.xml
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Newtonsoft.Json.xml
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\System.Net.Http.Formatting.xml
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\System.Web.Helpers.xml
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\System.Web.Http.xml
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\System.Web.Http.WebHost.xml
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\System.Web.Mvc.xml
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\System.Web.Optimization.xml
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\System.Web.Razor.xml
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\System.Web.WebPages.xml
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\System.Web.WebPages.Deployment.xml
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\System.Web.WebPages.Razor.xml
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Antlr3.Runtime.pdb
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\EntityFramework.xml
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\EntityFramework.SqlServer.xml
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Microsoft.Owin.xml
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Microsoft.Owin.Security.xml
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Microsoft.Owin.Security.Google.xml
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\bin\System.Web.Http.Owin.xml
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\obj\Debug\Sign.csprojResolveAssemblyReference.cache
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\obj\Debug\Sign.dll
+c:\users\admin1\documents\visual studio 2015\Projects\PoShSigning\Sign\obj\Debug\Sign.pdb
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\ApplicationInsights.config
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\roslyn\csc.exe
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\roslyn\System.Collections.Immutable.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\roslyn\System.Reflection.Metadata.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\roslyn\vbc.exe
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\roslyn\VBCSCompiler.exe
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\roslyn\VBCSCompiler.exe.config
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Sign.dll.config
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Sign.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Sign.pdb
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Antlr3.Runtime.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\EntityFramework.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\EntityFramework.SqlServer.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Microsoft.AI.Agent.Intercept.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Microsoft.AI.DependencyCollector.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Microsoft.AI.Web.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Microsoft.AI.WindowsServer.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Microsoft.ApplicationInsights.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Microsoft.AspNet.Identity.Core.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Microsoft.Owin.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Microsoft.Owin.Security.Cookies.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Microsoft.Owin.Security.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Microsoft.Owin.Security.Facebook.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Microsoft.Owin.Security.Google.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Microsoft.Owin.Security.OAuth.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Microsoft.Owin.Security.Twitter.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Microsoft.Web.Infrastructure.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Newtonsoft.Json.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Owin.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\System.Management.Automation.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\System.Net.Http.Formatting.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\System.Web.Helpers.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\System.Web.Http.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\System.Web.Http.Owin.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\System.Web.Http.WebHost.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\System.Web.Mvc.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\System.Web.Optimization.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\System.Web.Razor.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\System.Web.WebPages.Deployment.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\System.Web.WebPages.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\System.Web.WebPages.Razor.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\WebGrease.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Microsoft.AI.DependencyCollector.xml
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Microsoft.AI.Web.xml
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Microsoft.AI.WindowsServer.xml
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Microsoft.ApplicationInsights.xml
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Newtonsoft.Json.xml
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\System.Net.Http.Formatting.xml
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\System.Web.Helpers.xml
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\System.Web.Http.xml
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\System.Web.Http.WebHost.xml
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\System.Web.Mvc.xml
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\System.Web.Optimization.xml
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\System.Web.Razor.xml
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\System.Web.WebPages.xml
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\System.Web.WebPages.Deployment.xml
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\System.Web.WebPages.Razor.xml
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Antlr3.Runtime.pdb
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\EntityFramework.xml
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\EntityFramework.SqlServer.xml
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Microsoft.AspNet.Identity.Core.xml
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Microsoft.Owin.xml
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Microsoft.Owin.Security.xml
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Microsoft.Owin.Security.Facebook.xml
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Microsoft.Owin.Security.Cookies.xml
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Microsoft.Owin.Security.OAuth.xml
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Microsoft.Owin.Security.Google.xml
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Microsoft.Owin.Security.Twitter.xml
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\PoShSigning\Source-Code\PoShSigning\Sign\bin\System.Web.Http.Owin.xml
+C:\PoShSigning\Source-Code\PoShSigning\Sign\obj\Debug\Sign.csprojResolveAssemblyReference.cache
+C:\PoShSigning\Source-Code\PoShSigning\Sign\obj\Debug\Sign.dll
+C:\PoShSigning\Source-Code\PoShSigning\Sign\obj\Debug\Sign.pdb
